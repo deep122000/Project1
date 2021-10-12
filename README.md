@@ -16,6 +16,7 @@ Import database srms.sql (available inside zip package)
 For User
 
 Open Your browser put inside browser “http://localhost/srms”
+
 Details of student  --
 
 
@@ -28,6 +29,7 @@ Student Class: First(A)
 For Admin Panel
 
 Open Your browser put inside browser “http://localhost/srms”
+
 Login Details for admin : admin/Test@123
 
 
